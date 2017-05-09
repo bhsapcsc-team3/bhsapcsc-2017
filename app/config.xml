@@ -4,10 +4,10 @@
     id = "org.bainbridgeyouthservices.askbys"
     version = "3.0.1">
     
-    <name>Team3</name>
+    <name>askBYS-2017</name>
     
     <description>
-        Team3 mobile app
+        askbys.org mobile app
     </description>
     
     <author href="http://askbys.org" email="askbys@bainbridgeyouthservices.org">
